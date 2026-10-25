@@ -1,0 +1,6 @@
+true_label/predicted_label,tilt_left,tilt_right,up,down,idle
+tilt_left,40,0,0,0,0
+tilt_right,0,39,0,0,1
+up,0,0,0,40,0
+down,0,0,20,20,0
+idle,0,0,0,0,40
